@@ -9,7 +9,7 @@ https://docs.github.com/ja/repositories/creating-and-managing-repositories/creat
 - Use this template
 - Create a new repository
 - input new repository info
-- git clone https://github.com/<username>/<repository>.git
+- git clone `https://github.com/<username>/<repository>.git`
 
 ## Manual repository setup
 
